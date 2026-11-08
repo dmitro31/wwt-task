@@ -91,3 +91,8 @@ Also, to see how the compiled version of the program looks, you can use the scri
 ```shell
 npm run preview
 ```
+
+   ## Dependencies
+
+   No additional dependencies were installed for this task.
+   The modal is built on the native `<dialog>` element instead of a modal library.
